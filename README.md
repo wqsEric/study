@@ -1,6 +1,5 @@
 <p align="center">
   <img alt="logo" width="230" height="230" mode="widthFix" src="https://avatars3.githubusercontent.com/u/44595626?s=40&amp;v=4">
-<!--   <img width="380" src="https://avatars1.githubusercontent.com/u/8192412?s=460&v=4" alt="logo"> -->
 </p>
 ## Target
 Collect quality content & classical problem

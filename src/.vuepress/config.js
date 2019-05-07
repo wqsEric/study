@@ -75,6 +75,7 @@ module.exports = {
               { text: 'Vue', link: '/zh/vue/' },
               { text: 'React', link: '/zh/react/'},
               { text: '小程序', link: '/zh/miniapp/' },
+              { text: 'Virtual dom diff', link: '/zh/virtual/vuediff.md'},
               { text: '悦读管理后台', link: '/zh/interface/Yuedu.md'},
               { text: 'BlackMarket', link: '/zh/interface/BlackMarket.md'},
               { text: 'TouTiao', link: '/zh/interface/TouTiao.md'}
@@ -107,6 +108,9 @@ module.exports = {
           ]}],
           '/zh/miniapp/': [{title: '小程序知识点', children: [
             '', 'WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
+          ]}], 
+          '/zh/virtual/': [{title: 'Diff', children: [
+            'vuediff', 'reactdiff'
           ]}]
         }
       }

@@ -40,7 +40,7 @@
     ]
   },
   "dependencies": {
-    "@babel/core": "7.0.0-beta.47",
+    "@babel/core": "7.29.6",
     "@vue/babel-preset-app": "3.0.0-beta.11",
     "autoprefixer": "^8.2.0",
     "babel-loader": "8.0.0-beta.3",
